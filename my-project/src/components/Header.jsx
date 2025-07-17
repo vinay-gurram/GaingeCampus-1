@@ -15,7 +15,7 @@ const Header = () => {
           animate={{ scale: 1, opacity: 1 }}
           transition={{ delay: 0.3, type: "spring" }}
         >
-          🤖 GaingeCampus AI Assistant
+          🤖 Gainge AI Assistant
         </motion.h1>
         <p className="text-sm text-indigo-100 mt-2 sm:mt-0">Smart. Fast. Reliable.</p>
       </div>
